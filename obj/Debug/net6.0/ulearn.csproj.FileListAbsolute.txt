@@ -1,0 +1,15 @@
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\bin\Debug\net6.0\ulearn.exe
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\bin\Debug\net6.0\ulearn.deps.json
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\bin\Debug\net6.0\ulearn.runtimeconfig.json
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\bin\Debug\net6.0\ulearn.dll
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\bin\Debug\net6.0\ulearn.pdb
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.dll
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\refint\ulearn.dll
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.pdb
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ulearn.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Academia de Studii Economice din Bucuresti\Desktop\c#\ulearn\ulearn\obj\Debug\net6.0\ref\ulearn.dll
