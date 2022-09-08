@@ -18,6 +18,7 @@ namespace ulearn
             }
             
         }
+        //alio
         static void Main()
         {
             Console.WriteLine(GetMinX(1, 2, 3));
